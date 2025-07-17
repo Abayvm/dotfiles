@@ -7,3 +7,4 @@ Optimized for minimal setups and tiling WMs. Uses compact ASCII art with clean s
 ## Preview
 
 ![screenshot](screenshot.png)
+![screenshot](screenshot2.png)
