@@ -1,0 +1,10 @@
+@theme "/usr/share/rofi/themes/DarkBlue.rasi"
+
+configuration {
+  font: "FiraCode Nerd Font 12";
+  show-icons: true;
+  icon-theme: "Papirus-Light";
+  modi: "drun,run,window,ssh";
+}
+
+
