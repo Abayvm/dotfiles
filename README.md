@@ -1,10 +1,4 @@
-# 🖥️ Neofetch Config
+# personal dotfiles
 
-my personal custom `neofetch` configuration for a clean, visually balanced system info display.
+personal configuration files for my development and desktop environment. This setup is optimized for a clean, minimal, and productive linux workflow — using `kitty`, `picom`, `neofetch`, and more.
 
-Optimized for minimal setups and tiling WMs. Uses compact ASCII art with clean spacing, relevant metrics, and icon-enhanced sections.
-
-## Preview
-
-![screenshot](screenshot.png)
-![screenshot](screenshot2.png)
